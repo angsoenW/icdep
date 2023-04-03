@@ -1,0 +1,2 @@
+1. To make sure the commands can be received by the wanted node, the recipient of this message needs to be the wanted node. 
+2. The message should be encrypted in a way that only the sender and recipient can decrypt to avoid manipulation while it travel through nodes. All executable functions should be encrypted for safety purposes. In the encrypted message, senders can text functions they want the recipients to execute. 
